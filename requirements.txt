@@ -1,4 +1,9 @@
+# for the book example
 langchain==0.3.27
 langchain-community==0.3.29
 langchain-openai==0.3.32
 langgraph==0.6.6
+
+# for web scraping experiment
+selenium==4.35.0
+webdriver-manager==4.0.2
